@@ -1,0 +1,22 @@
+{
+  "name": "AMD-Backbone-Gerbil-JSDom",
+  "version": "0.0.0",
+  "description": "This is an example of a headless way to test a Backbone application using JSDOM. It includes the most common scenario i could think about.",
+  "main": "tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elcuervo/AMD-Backbone-Gerbil-JSDom.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "requirejs": "~2.1.1",
+    "gerbil": "~0.3.9",
+    "jquery": "~1.8.2",
+    "jsdom": "~0.2.19"
+  }
+}
